@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Digital-Clock-with-Stop-Watch-using-React-JS-/static/css/main.0aea86f1.css",
+    "main.js": "/Digital-Clock-with-Stop-Watch-using-React-JS-/static/js/main.d2628855.js",
+    "index.html": "/Digital-Clock-with-Stop-Watch-using-React-JS-/index.html",
+    "main.0aea86f1.css.map": "/Digital-Clock-with-Stop-Watch-using-React-JS-/static/css/main.0aea86f1.css.map",
+    "main.d2628855.js.map": "/Digital-Clock-with-Stop-Watch-using-React-JS-/static/js/main.d2628855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aea86f1.css",
+    "static/js/main.d2628855.js"
+  ]
+}
